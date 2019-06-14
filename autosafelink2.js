@@ -1,5 +1,5 @@
 // AUTO SAFELINK FOR JABURALINK
-var blog_url="https://www.jaburalink.blogspot.com"; // Homepage Blog Safelink
+var blog_url="https://www.jaburalink.me"; // Homepage Blog Safelink
 var article1="/2019/04/madagascar.html"; // Article 1
 var article2="/2019/04/perkembangan-film.html"; // Article 2
 var article3="/2019/03/understanding-of-diamonds.html"; // Article 3
